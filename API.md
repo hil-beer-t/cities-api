@@ -4,12 +4,12 @@
 
 * **URL**
 
-  * "/countries"
-  * "/cities"
-  * "/cities/id"
-  * "/states"
-  * "/distancies/by-points?from={id_city1}&to={id_city2}"
-  * "/distances/by-cube?from={id_city1}&to={id_city2}"
+  * `/countries`
+  * `/cities`
+  * `/cities/id`
+  * `/states`
+  * `/distancies/by-points?from={id_city1}&to={id_city2}`
+  * `/distances/by-cube?from={id_city1}&to={id_city2}`
 
 * **Method:**
 
