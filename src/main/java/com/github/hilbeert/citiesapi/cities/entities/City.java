@@ -1,9 +1,8 @@
-package com.github.hilbeert.citiesapi.cities;
+package com.github.hilbeert.citiesapi.cities.entities;
 
 import javax.persistence.*;
 
-import com.github.hilbeert.citiesapi.countries.Country;
-//import com.github.hilbeert.citiesapi.states.State;
+//import com.github.hilbeert.citiesapi.states.entities.State;
 import org.hibernate.annotations.Type;
 import org.hibernate.annotations.TypeDef;
 import org.hibernate.annotations.TypeDefs;

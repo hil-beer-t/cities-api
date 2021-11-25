@@ -1,4 +1,4 @@
-package com.github.hilbeert.citiesapi.countries;
+package com.github.hilbeert.citiesapi.countries.entities;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

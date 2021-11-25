@@ -1,7 +1,7 @@
-package com.github.hilbeert.citiesapi.countries;
+package com.github.hilbeert.citiesapi.countries.resources;
 
-import com.github.hilbeert.citiesapi.countries.Country;
-import com.github.hilbeert.citiesapi.countries.repository.CountryRepository;
+import com.github.hilbeert.citiesapi.countries.entities.Country;
+import com.github.hilbeert.citiesapi.countries.repositories.CountryRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

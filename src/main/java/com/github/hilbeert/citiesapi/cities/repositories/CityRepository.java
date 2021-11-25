@@ -1,6 +1,6 @@
-package com.github.hilbeert.citiesapi.cities;
+package com.github.hilbeert.citiesapi.cities.repositories;
 
-import com.github.hilbeert.citiesapi.cities.City;
+import com.github.hilbeert.citiesapi.cities.entities.City;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

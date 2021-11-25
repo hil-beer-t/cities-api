@@ -1,5 +1,6 @@
-package com.github.hilbeert.citiesapi.cities;
+package com.github.hilbeert.citiesapi.cities.resources;
 
+import com.github.hilbeert.citiesapi.cities.service.DistanceService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.web.bind.annotation.GetMapping;

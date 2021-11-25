@@ -1,5 +1,7 @@
-package com.github.hilbeert.citiesapi.states;
+package com.github.hilbeert.citiesapi.states.resources;
 
+import com.github.hilbeert.citiesapi.states.entities.State;
+import com.github.hilbeert.citiesapi.states.repositories.StateRepository;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

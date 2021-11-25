@@ -1,9 +1,11 @@
-package com.github.hilbeert.citiesapi.cities;
+package com.github.hilbeert.citiesapi.cities.service;
 
-import com.github.hilbeert.citiesapi.cities.City;
-import com.github.hilbeert.citiesapi.cities.CityRepository;
+import com.github.hilbeert.citiesapi.cities.entities.City;
+
 import java.util.Arrays;
 import java.util.List;
+
+import com.github.hilbeert.citiesapi.cities.repositories.CityRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.data.geo.Point;

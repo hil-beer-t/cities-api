@@ -1,4 +1,4 @@
-package com.github.hilbeert.citiesapi.cities;
+package com.github.hilbeert.citiesapi.cities.entities;
 
 import java.io.Serializable;
 import java.sql.PreparedStatement;

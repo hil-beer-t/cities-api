@@ -1,7 +1,7 @@
-package com.github.hilbeert.citiesapi.cities;
+package com.github.hilbeert.citiesapi.cities.resources;
 
-import com.github.hilbeert.citiesapi.cities.City;
-import com.github.hilbeert.citiesapi.cities.CityRepository;
+import com.github.hilbeert.citiesapi.cities.entities.City;
+import com.github.hilbeert.citiesapi.cities.repositories.CityRepository;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.web.bind.annotation.GetMapping;
